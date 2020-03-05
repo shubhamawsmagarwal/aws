@@ -1,0 +1,7 @@
+bucketname=myprojectstorage1107
+user=s3user
+databasename=s3database
+datbaseusername=s3user
+databasepassoword=s3users3
+tablename=s3table
+columns=id,S3FilePath,accessCode
